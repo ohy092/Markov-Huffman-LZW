@@ -1191,7 +1191,7 @@ public class Mandatory1 {
 	static MarkovGenerator mg = null;
 	static LZW lzw = null;
 	static Huffman huff = null;
-	static String urlToFile = "http://landkrab.be/res/folktale.html";
+	static String urlToFile = "https://raw.githubusercontent.com/ohy092/Markov-Huffman-LZW/master/folktale.txt";
 	static String localCacheFileName = "folktale.txt";
 	static int textIsOnLineNumber = 9;
 	static int[] sizeAfterGenerating = new int[4];
